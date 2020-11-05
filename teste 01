@@ -1,0 +1,4 @@
+n = float(input('digite um valor em metros:'))
+cm = n*100
+mm = n*1000
+print('o valor em cm deu {} \nE o valor em mm deu {}'.format(cm, mm))
